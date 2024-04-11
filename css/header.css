@@ -1,0 +1,25 @@
+header {
+    border-bottom: 1px solid rgb(205, 205, 205);
+}
+
+.menu-bar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.menu-bar__left__icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+}
+.menu-bar__center__title {
+    margin: 0px 150px 0px 150px;
+    font-weight: bold;
+}
+.menu-bar__right__icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+}
